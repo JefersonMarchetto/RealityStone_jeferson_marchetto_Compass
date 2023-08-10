@@ -1,2 +1,10 @@
-coisas que vamos aprender e desenvolver durante essa sprint;
-2 commit
+Resumo dos aprendizados:
+primeiro dia:
+   criação de conta no Github
+   instalação git
+Segundo Dia:
+   comandos Git
+   sincronismo git / github
+terceiro dia:
+   inciação curso de Ruby one bit code
+   
