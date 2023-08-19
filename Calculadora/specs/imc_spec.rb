@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../logic/imc'
+require_relative '../src/imc'
 
 
 describe 'Calculo do IMC' do
