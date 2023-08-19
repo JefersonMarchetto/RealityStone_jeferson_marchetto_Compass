@@ -17,3 +17,7 @@ quinto dia :
    continuação do curso one bit code
     - collections 
     - Métodos e gems
+Sexto dia :
+   continuação do curso one bit code
+    - calculadora
+    
